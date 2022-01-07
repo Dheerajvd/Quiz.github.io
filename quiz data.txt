@@ -1,0 +1,42 @@
+ [
+    {
+        Question: 'Q1- HTML is considered as ______ ?',
+        a: 'Programming language',
+        b: 'OOP language',
+        c: 'High level language',
+        d: 'Markup language',
+        ans: 'answer4'
+    },
+    {
+        Question: 'Q2- HTML uses ______?',
+        a: 'User-defined tags',
+        b: 'Predefined tags',
+        c: 'Fixed tags defined by the languag',
+        d: 'Tags for links only',
+        ans: 'answer3'
+    },
+    {
+        Question: 'Q3- A stricter type of HTML document is known as ______?',
+        a: 'DHTML',
+        b: 'XHTML',
+        c: 'XML',
+        d: 'HTML',
+        ans: 'answer2'
+    },
+    {
+        Question: 'Q4- The HTML tag that specifies a CSS style embedded in an element is called ____?',
+        a: 'Design',
+        b: 'style',
+        c: 'Modify',
+        d: 'Define',
+        ans: 'answer2'
+    },
+    {
+        Question: 'Q5- If we want to set the style for just one element, which css selector will we use?',
+        a: 'id',
+        b: 'text',
+        c: 'class',
+        d: 'name',
+        ans: 'answer1'
+    },
+];
